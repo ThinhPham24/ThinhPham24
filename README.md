@@ -4,7 +4,7 @@
 
 
 <h1   font-size= 1px  align="center">
- Hey, I'am THINH 👋 
+ Hey, I'm THINH 👋 
 </h1>
 
 ## About me

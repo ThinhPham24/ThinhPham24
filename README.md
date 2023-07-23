@@ -1,6 +1,6 @@
 ### Hi everyone 👋
 <div id="header" align="center">
-  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://drive.google.com/file/d/18qwkNE0PhOvcTw6j1-N4Lpif3nMub2Wd/view?usp=sharing)" width="100"/>
+  <img src="[https://drive.google.com/file/d/18qwkNE0PhOvcTw6j1-N4Lpif3nMub2Wd/view?usp=sharing]" width="100"/>
 </div>
 <!--
 **ThinhPham24/ThinhPham24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

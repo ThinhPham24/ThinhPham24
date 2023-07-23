@@ -1,11 +1,10 @@
-<div # Hey everyone, I'am THINH 👋 align = "Center"</div>
 <div id="header" align="center">
-  <img src="" width="100"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-<!--
-**ThinhPham24/ThinhPham24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h1 align="center">
+   Hey, I'am THINH 👋
+</h1>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -15,4 +14,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->

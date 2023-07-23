@@ -1,4 +1,4 @@
-<div# Hey everyone, I'am THINH 👋 align = "Center"</div>
+<div # Hey everyone, I'am THINH 👋 align = "Center"</div>
 <div id="header" align="center">
   <img src="" width="100"/>
 </div>

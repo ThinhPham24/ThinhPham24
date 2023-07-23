@@ -8,7 +8,7 @@
 </h1>
 
 ## About me
-### I'm from Vietnam 🇻🇳 
+I'm from Vietnam 🇻🇳 
 - 👯 I’m interested in Computer vision, Image processing, Mahine learning, Deep leanring and Robotics. 
 - 🔭 I’m currently working on Computer vision and deep learning skills
 - 🌱 I’m currently learning Robotics

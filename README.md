@@ -9,7 +9,7 @@
 
 ## About me
 I'm from Vietnam 🇻🇳 
-- 👯 I’m interested in Computer vision, Image processing, Mahine learning, Deep leanring and Robotics. 
+- 👯 I’m interested in Computer vision, Image processing, Machine learning, Deep learning and Robotics. 
 - 🔭 I’m currently working on Computer vision and deep learning skills
 - 🌱 I’m currently learning Robotics, C++ coding skills and Tensorflow/Pytorch framwork
 - 💬 Ask me about Python, Computer vision

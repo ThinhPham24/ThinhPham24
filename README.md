@@ -10,7 +10,7 @@
 ## About me
 I'm from Vietnam 🇻🇳 
 - 👯 I’m interested in Computer vision, Image processing, Machine learning, Deep learning and Robotics. 
-- 🔭 I’m currently working on Computer vision and deep learning skills
-- 🌱 I’m currently learning Robotics, C++ coding skills and Tensorflow/Pytorch framework
-- 💬 Ask me about Python, Computer vision
+- 🔭 I’m currently working on Computer vision and deep learning skills.
+- 🌱 I’m currently learning Robotics, C++ coding skills and Tensorflow/Pytorch framework.
+- 💬 Ask me about Python, Computer vision.
 - 📧 Contact me: phamthethinh240197@gmail.com
